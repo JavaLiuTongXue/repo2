@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T07:46:26.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="YaKZb-ME-T6dlZd6gq5Q" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T07:47:38.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="I-cu6uJNRqiuG_lWEX0U" version="16.0.0" type="github">
   <diagram id="tm-nALROagj8iYamRgqU" name="第 1 页">
     <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="p4Hp8FtgV2sdefWnoZf5-10" value="&lt;span style=&quot;font-size: 18px ; font-weight: 400&quot;&gt;是否偏向&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="935.67" y="288.43" width="93.33" height="31.57" as="geometry" />
+        </mxCell>
+        <mxCell id="p4Hp8FtgV2sdefWnoZf5-13" value="&lt;span style=&quot;font-weight: normal&quot;&gt;获取锁对象后的对象头：&lt;/span&gt;11000000&amp;nbsp; 00011111&amp;nbsp; 11110101&amp;nbsp; 01000000&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="740" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
